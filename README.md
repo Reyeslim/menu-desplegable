@@ -11,8 +11,8 @@ El objetivo principal es construir un menú de navegación funcional y estilizad
 Este ejercicio te ayudará a practicar y entender:
 
 - **Estructura HTML Semántica**: Usar las etiquetas correctas (`<nav>`, `<ul>`, `<li>`, `<a>`) para la navegación.
-- **Estilizado con CSS**: Aplicar estilos, posicionamiento (especialmente `position: relative/absolute`) y transiciones.
-- **Interactividad**: Manejar los estados (visible/oculto) del submenú.
+- **Estilizado con CSS**: Aplicar estilos, posicionamiento y transiciones.
+- **Interactividad**: Manejar los estados del submenú.
 
 ---
 
